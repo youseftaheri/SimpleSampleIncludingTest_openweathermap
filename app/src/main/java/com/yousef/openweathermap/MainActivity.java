@@ -71,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
             Log.d("city name: ", city.getName());
             Log.d("city location lat: ", Double.toString(city.getLocation().getLat()));
         }
-
         btSubmit.setOnClickListener(v -> {
             updateInfo();
         });
