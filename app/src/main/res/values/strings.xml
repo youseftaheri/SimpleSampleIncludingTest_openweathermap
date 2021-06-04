@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">openweathermap</string>
+    <string name="city_name">City Name</string>
+    <string name="submit_city">Submit City</string>
+    <string name="city_title">City:</string>
+    <string name="rank_title">Rank:</string>
+    <string name="latitude_title">Latitude:</string>
+    <string name="longitude_title">Longitude</string>
+    <string name="temperature_title">Temperature:</string>
+    <string name="loading">LOADING...</string>
+    <string name="rank">Rank</string>
 </resources>
